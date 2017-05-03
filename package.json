@@ -1,5 +1,5 @@
 {
-  "name": "prosemirror-dropcursor",
+  "name": "@kapouer/prosemirror-dropcursor",
   "version": "0.20.0",
   "description": "Drop cursor plugin for ProseMirror",
   "main": "dist/dropcursor.js",
